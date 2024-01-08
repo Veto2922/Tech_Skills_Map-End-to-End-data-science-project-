@@ -2,7 +2,7 @@
 
 **Deployment Link: [Tech Skills Map Streamlit App](https://techskillsmap.streamlit.app/)**
 
-For more details about the implementation steps and insights gained from this project, please refer to the accompanying [Medium article](https://medium.com/@abdelrahman.m2922/skillsmap-end-to-end-data-science-project). Feel free to reach out for any further questions or assistance.
+For more details about the implementation steps and insights gained from this project, please refer to the accompanying [Medium article](https://medium.com/@abdelrahman.m2922/skillsmap-end-to-end-data-science-project-5be5b3062f74). Feel free to reach out for any further questions or assistance.
 
 ---
 
