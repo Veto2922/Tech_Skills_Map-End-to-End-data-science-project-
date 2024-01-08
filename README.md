@@ -1,5 +1,11 @@
 # Tech Skills Map-End-to-End
 
+**Deployment Link: [Tech Skills Map Streamlit App](https://techskillsmap.streamlit.app/)**
+
+For more details about the implementation steps and insights gained from this project, please refer to the accompanying [Medium article](https://medium.com/@abdelrahman.m2922/skillsmap-end-to-end-data-science-project). Feel free to reach out for any further questions or assistance.
+
+---
+
 This project aimed at providing a data-driven solution to enable students to gain insights into the relationships between different functions and their associated technologies.
 
 **Problem Description:**
@@ -69,6 +75,35 @@ Data link: https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-dev
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+
+---
+
+## Prediction Pipeline
+
+The prediction pipeline has been implemented in the `predict_model.py` file:
+
+
+This module contains a class `PredictPipeline` that utilizes a pre-trained machine learning model to make predictions based on a list of skills. The class also provides methods for predicting class probabilities and finding matching skill groups.
+
+The `DataDetails` module loads and provides access to various lists of data details stored in pickled files:
+
+This module defines the `DataDetails` class, responsible for loading and providing access to various lists of data details.
+
+## Streamlit App
+
+The user interface is implemented in the `app.py` file using Streamlit:
+
+
+This Streamlit app allows users to select their skills, makes predictions based on those skills, and provides visualizations to assist users in understanding the relationships between different skills.
+
+
+---
+
+**For more info about this project:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Mohamed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-mohamed-28649120b/) [![GitHub](https://img.shields.io/badge/GitHub-Veto2922-darkgreen?style=flat&logo=github)](https://github.com/Veto2922/SkillMap-End-to-End-data-science-project) [![Medium](https://img.shields.io/badge/Medium-Abdelrahman_M-ff69b4?style=flat&logo=medium)](https://medium.com/@abdelrahman.m2922/skillsmap-end-to-end-data-science-project)
+
+If you find this project useful, consider showing your support or starring it on GitHub.
 
 ---
 
