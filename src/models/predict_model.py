@@ -11,15 +11,15 @@ final_model_path = r'models\final_model.pkl'
 DATA_COL = r'models/data_col.pkl'
 Classes_NAME = r'models/classes_names.pkl'
 
-LANGUAGES_PATH = r'models\data details\languages.pkl'
-DATABASES_PATH = r'models\data details\DATABASES.pkl'
-PLATFROMS_PATH = r'models\data details\PLATFROMS.pkl'
-WEB_FRAMES_PATH = r'models\data details\WEB_FRAMES.pkl'
-VARIED_TACH_PATH = r'models\data details\VARIED_TACH.pkl'
-TOOLS_PATH = r'models\data details\TOOLS.pkl'
-COLLABTOOLS_PATH = r'models\data details\COLLABTOOLS.pkl'
+LANGUAGES_PATH = r'models/data details/languages.pkl'
+DATABASES_PATH = r'models/data details/DATABASES.pkl'
+PLATFROMS_PATH = r'models/data details/PLATFROMS.pkl'
+WEB_FRAMES_PATH = r'models/data details/WEB_FRAMES.pkl'
+VARIED_TACH_PATH = r'models/data details/VARIED_TACH.pkl'
+TOOLS_PATH = r'models/data details/TOOLS.pkl'
+COLLABTOOLS_PATH = r'models/data details/COLLABTOOLS.pkl'
 
-skills_clusters_path = r'models\data details\skills_clusters.pkl'
+skills_clusters_path = r'models/data details/skills_clusters.pkl'
 
 #############################################################################################
 
