@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/xobed/OneDrive/Desktop/Data_science_And_ML_projects/project4
+  - SkillMAP (end to end data science project)/SkillMap-End-to-End-data-science-project/notebooks/../models/mlruns/979592220793297931/224fb5c728a84025a354c97d7435db51/artifacts
+end_time: 1704486168314
+entry_point_name: ''
+experiment_id: '979592220793297931'
+lifecycle_stage: active
+run_id: 224fb5c728a84025a354c97d7435db51
+run_name: 'Random Forest: with  Hyperparamter tuning'
+run_uuid: 224fb5c728a84025a354c97d7435db51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704486168240
+status: 3
+tags: []
+user_id: xobed
