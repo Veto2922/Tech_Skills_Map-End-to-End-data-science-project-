@@ -50,7 +50,7 @@ def main():
     ######################################################################################################################
     # Display prediction information
     st.subheader('🎯 The job proposed for you:')
-    st.subheader(f':red[{pred}]')
+    st.subheader(f':red[{pred_prob.iloc[0][0]}]')
 
     ##############################################################
     st.subheader('Probability of all jobs based on your skills ')
