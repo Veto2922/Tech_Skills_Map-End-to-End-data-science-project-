@@ -1,4 +1,4 @@
-# SkillsMap-End-to-End
+# Tech Skills Map-End-to-End
 
 This project aimed at providing a data-driven solution to enable students to gain insights into the relationships between different functions and their associated technologies.
 
