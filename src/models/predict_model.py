@@ -5,8 +5,8 @@ from sklearn.preprocessing import StandardScaler
 import joblib
 
 
-preperocessor_path = r'models\preperocessor.pkl'
-final_model_path = r'models\final_model.pkl'
+preperocessor_path = r'models/preperocessor.pkl'
+final_model_path = r'models/final_model.pkl'
 
 DATA_COL = r'models/data_col.pkl'
 Classes_NAME = r'models/classes_names.pkl'
