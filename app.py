@@ -79,8 +79,8 @@ def main():
     st.subheader('🚀 You can discover the skills clusters through the following graph:')
     
     # Load and display the saved HTML file in Streamlit
-    html_code = open(r"reports/figures/scatter_plot.html", 'r', encoding='utf-8').read()
-    st.components.v1.html(html_code, width=1900, height=1000 , scrolling = True)
+    html_code = open(r"reports/figures/scatter_plot2.html", 'r', encoding='utf-8').read()
+    st.components.v1.html(html_code, width=1500, height=1000 , scrolling = True)
 
     ##############################################################
     # Footer with LinkedIn, GitHub, and Medium links
