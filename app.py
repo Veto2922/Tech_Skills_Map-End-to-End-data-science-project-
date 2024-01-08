@@ -80,7 +80,7 @@ def main():
     
     # Load and display the saved HTML file in Streamlit
     html_code = open(r"reports/figures/scatter_plot.html", 'r', encoding='utf-8').read()
-st.components.v1.html(html_code, width=1200, height=1000)
+st.components.v1.html(html_code, width=3000, height=1000)
 
     ##############################################################
     # Footer with LinkedIn, GitHub, and Medium links
