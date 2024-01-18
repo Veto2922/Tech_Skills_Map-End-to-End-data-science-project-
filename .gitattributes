@@ -1,1 +1,2 @@
 models/final_model.pkl filter=lfs diff=lfs merge=lfs -text
+models/final_model2.pkl filter=lfs diff=lfs merge=lfs -text
