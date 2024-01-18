@@ -1,7 +1,7 @@
 import streamlit as st
 import altair as alt
 import pandas as pd
-
+ 
 from src.models.predict_model import PredictPipeline, DataDetails
 
 # Sample skills list
