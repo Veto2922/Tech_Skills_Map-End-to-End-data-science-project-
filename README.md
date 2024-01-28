@@ -4,6 +4,9 @@
 
 For more details about the implementation steps and insights gained from this project, please refer to the accompanying [Medium article](https://medium.com/@abdelrahman.m2922/skillsmap-end-to-end-data-science-project-5be5b3062f74). Feel free to reach out for any further questions or assistance.
 
+![image](https://github.com/Veto2922/Tech_Skills_Map-End-to-End-data-science-project-/assets/114834171/eeb111c7-b3d8-4b5e-9f05-947cddc52aa4)
+
+
 ---
 
 This project aimed at providing a data-driven solution to enable students to gain insights into the relationships between different functions and their associated technologies.
